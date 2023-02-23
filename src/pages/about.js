@@ -5,9 +5,9 @@ const About = () => {
     <div
       style={{
         display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        height: '90vh'
+        justifyContent: 'left',
+        alignItems: 'left',
+        height: '100vh'
       }}
     >
       <h1>About</h1>
